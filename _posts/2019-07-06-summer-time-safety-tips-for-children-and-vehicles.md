@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2019-07-06 13:22:24
 ---
-<img title="" src="http://midmichiganjournal.com/wp-content/uploads/2019/07/null.png" alt="" width="500" height="322" />
+&nbsp;
 
 It’s summertime, which means we, as parents and caregivers, need to be extra cautious when traveling with children. Unfortunately, the country has seen 17 deaths due to Pediatric Vehicular Heatstroke already this year, and that number is bound to climb. Here are some tips to on how to keep your child this summer, as suggested by NoHeatStroke.org:
 <ul>
