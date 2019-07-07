@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-07-06 13:47:06
 ---
-Share your questions or suggested topics related to animals and pet care by clicking on the “<a href="https://podio.com/webforms/23034945/1638861">Pet Questions</a>” link on the <i>Mid Michigan Journal </i>website, or sending an email to <a href="mailto:petcare@midmichiganjournal.com">petcare@midmichiganjournal.com</a>. Dalis Hitchcock will be responding to your questions via a new series of articles.
+Share your questions or suggested topics related to animals and pet care by clicking on the “<a href="http://midmichiganjournal.com/add-question">Pet Questions</a>” link on the <i>Mid Michigan Journal </i>website, or sending an email to <a href="mailto:petcare@midmichiganjournal.com">petcare@midmichiganjournal.com</a>. Dalis Hitchcock will be responding to your questions via a new series of articles.
 
 ##
 
