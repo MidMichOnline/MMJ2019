@@ -1,9 +1,9 @@
 ---
 ID: 309
 post_title: >
-  Annual Historical Society Ice Cream
-  Social and band concert attracted large
-  crowd
+  Annual Shepherd Area Historical Society
+  Ice Cream Social and band concert
+  attracted large crowd
 author: ng23055
 post_excerpt: ""
 layout: post
