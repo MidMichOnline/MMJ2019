@@ -9,5 +9,6 @@ permalink: >
 published: true
 post_date: 2019-07-13 22:21:33
 ---
+[audio mp3="http://midmichiganjournal.com/wp-content/uploads/2019/07/thereadout_07142019.mp3"][/audio]
 <h2>Featured Stories</h2>
 [ic_add_posts category='mailchimp' from_date='06-07-2019' to_date='13-07-2019']
