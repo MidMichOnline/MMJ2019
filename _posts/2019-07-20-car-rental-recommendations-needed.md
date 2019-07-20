@@ -10,6 +10,8 @@ published: true
 post_date: 2019-07-20 02:27:02
 ---
 Lisa is looking for recommendations for car rentals.
+
+Discussion Thread follows below.
 <ul>
  	<li>Lisa: Are there any car rental places in the area? Enterprise doesn’t have any cars. I need a car for a few days as my car is being looked at to see if it’s repairable.
 <ul>
@@ -39,9 +41,6 @@ Lisa is looking for recommendations for car rentals.
  	<li>Mackenzie Townsend Seeleys only does so when they specifically work on the car themselves that came from there lot, and you ask for a rental because you have no other choice. It happened to me.</li>
 </ul>
 </li>
- 	<li>Rosalie Dusty Mills this says chicago</li>
- 	<li>Dusty Mills Rosalie Kunkel where</li>
- 	<li>Rosalie Kunkel Dusty Mills below where you put seeleys. It says rent cars for less and it’s in Chicago.. I know seeleys is on 46 heading into St. Louis</li>
  	<li>Doni Krapohl Ford Mt P
 <ul>
  	<li>Links Posted.
