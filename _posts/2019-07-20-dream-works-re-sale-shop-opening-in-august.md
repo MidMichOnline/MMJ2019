@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2019-07-20 03:40:39
 ---
-&nbsp;
-
 Image Posted
 
 Cindy Taylor Miller: We have the keys and we are moving in!
