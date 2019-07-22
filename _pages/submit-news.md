@@ -1,6 +1,6 @@
 ---
 ID: 485
-post_title: New Article
+post_title: News Tip
 author: ng23055
 post_excerpt: ""
 layout: page
