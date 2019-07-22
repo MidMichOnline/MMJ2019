@@ -1,6 +1,6 @@
 ---
 ID: 485
-post_title: Submit News
+post_title: New Article
 author: ng23055
 post_excerpt: ""
 layout: page
