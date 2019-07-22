@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2019-07-22 03:03:30
 ---
-<pre><code>[wpsc_create_ticket]</code></pre>
+[wpsc_create_ticket]
