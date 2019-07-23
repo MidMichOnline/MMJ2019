@@ -2,7 +2,7 @@
 ID: 565
 post_title: >
   Online News website seeks submissions of
-  news and information from the Mid
+  news and event information from the Mid
   Michigan community
 author: ng23055
 post_excerpt: ""
@@ -12,7 +12,7 @@ permalink: >
 published: true
 post_date: 2019-07-23 04:18:34
 ---
-This month marks the one year anniversary of the launch of <i>The Mid Michigan Journal</i>, a free online community news resource dedicated to bring news about local news and events to central Michigan residents.
+This month marks the one year anniversary of the launch of <i>The Mid Michigan Journal</i>, a free online community news resource which delivers news and event information to Central Michigan residents.
 
 The public can read stories on the Mid Michigan Journal’s website, http://www.midmichiganjournal.com, Facebook page, email newsletter, or weekly podcast news summary. The site also features an Answers forum, and a business directory.
 
