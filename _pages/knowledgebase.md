@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2019-07-28 16:40:45
 ---
-[knowledgebase-one include="knowledgebase"]
+[knowledgebase-one include="130"]
