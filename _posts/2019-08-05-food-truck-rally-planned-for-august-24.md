@@ -1,7 +1,7 @@
 ---
 ID: 751
 post_title: Food Truck Rally planned for August 24
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
