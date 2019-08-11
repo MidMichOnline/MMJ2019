@@ -3,7 +3,7 @@ ID: 734
 post_title: >
   Native Farmers Market open every Tuesday
   until October
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
