@@ -3,7 +3,7 @@ ID: 652
 post_title: >
   Back to School Bash to take place August
   13
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
