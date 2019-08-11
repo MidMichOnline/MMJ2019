@@ -1,7 +1,7 @@
 ---
 ID: 706
 post_title: 'Auditions to be held this month for &#8220;The Good Doctor&#8221;'
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
