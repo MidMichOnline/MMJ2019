@@ -3,7 +3,7 @@ ID: 707
 post_title: >
   Back to School Bash to be held in
   Riverdale August 17
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
