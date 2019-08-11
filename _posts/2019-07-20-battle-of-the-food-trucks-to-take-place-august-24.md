@@ -3,7 +3,7 @@ ID: 426
 post_title: >
   Battle of the Food Trucks to take place
   August 24
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
