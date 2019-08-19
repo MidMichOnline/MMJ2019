@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2019-08-19 11:26:15
 ---
-&nbsp;
-
 A presentation on Exotic Zoo animals will be held Saturday, September 21 at 11 a.m. inside the Coe Township Hall in Shepherd. The event will feature several exotic animals including an alligator, monkey, giant tortoise, giant python, arctic fox, lemur, honey bear, porcupine, and siberan lynx.
 
 The event is free to the public and presented by the Shepherd Community Friends of the Library.
