@@ -4,8 +4,7 @@ post_title: County News
 author: Jon Morgan
 post_excerpt: ""
 layout: page
-permalink: >
-  http://midmichiganjournal.com/community-news-2
+permalink: http://midmichiganjournal.com/countynews
 published: true
 post_date: 2019-08-24 15:56:35
 ---
