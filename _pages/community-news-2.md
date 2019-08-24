@@ -1,6 +1,6 @@
 ---
 ID: 840
-post_title: Community News
+post_title: County News
 author: Jon Morgan
 post_excerpt: ""
 layout: page
