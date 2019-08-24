@@ -1,7 +1,7 @@
 ---
 ID: 747
 post_title: Forum
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: page
 permalink: http://midmichiganjournal.com/community
