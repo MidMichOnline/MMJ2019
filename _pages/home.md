@@ -1,7 +1,7 @@
 ---
 ID: 77
 post_title: Home
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: page
 permalink: http://midmichiganjournal.com/
