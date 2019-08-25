@@ -1,8 +1,8 @@
 ---
 ID: 863
 post_title: >
-  Shepherd Elementary School introducing
-  new teachers
+  Shepherd Elementary School welcomes new
+  teachers
 author: Jon Morgan
 post_excerpt: ""
 layout: post
