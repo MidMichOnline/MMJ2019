@@ -8,4 +8,4 @@ permalink: http://midmichiganjournal.com/countynews
 published: true
 post_date: 2019-08-24 15:56:35
 ---
-[knowledgebase-two posts_per_page="5" hide_empty="1" include="17,18,147"]
+[knowledgebase-two posts_per_page="5" hide_empty="1" include="8"]
