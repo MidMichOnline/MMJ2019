@@ -8,3 +8,6 @@ permalink: http://midmichiganjournal.com/blogs
 published: true
 post_date: 2019-08-19 11:09:37
 ---
+[knowledgebase-two include="1,3,5" hide_empty="0"]
+
+&nbsp;
