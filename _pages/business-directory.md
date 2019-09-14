@@ -1,7 +1,7 @@
 ---
 ID: 135
 post_title: Business Directory
-author: ng23055
+author: Jon Morgan
 post_excerpt: ""
 layout: page
 permalink: >
