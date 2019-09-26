@@ -24,7 +24,3 @@ In the case of the Community Helpdesk, the writer would simply be the "middle ma
 I am also open to ideas for other blogs. I am hoping that by having standing sections, the site will feel more accessible to members of the community who already have an interest in sharing their story, or knowledge, but perhaps don't know how to get started.
 
 Feel free to respond in the comments below, message me on Facebook, or send email to <a href="mailto:editor@midmichiganjournal.com">editor@midmichiganjournal.com</a> if you might be interested in helping. Or if you have an idea for a blog.
-
-###
-
-<a href="https://docs.google.com/document/d/1Q3sDe5jynwdp5lITPWaN5n5k35hk9C9tRBn4I8zF5vw/edit?usp=sharing">Edit</a>
