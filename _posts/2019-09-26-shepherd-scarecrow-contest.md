@@ -1,6 +1,8 @@
 ---
 ID: 1706
-post_title: Shepherd Scarecrow Contest
+post_title: >
+  Shepherd Scarecrow Contest to take place
+  in October
 author: Jon Morgan
 post_excerpt: ""
 layout: post
